@@ -2,6 +2,8 @@
 
 ## Meme Generator let's you create Meme's easily - it's as easy as taking a picture.
 
+Disclaimer: This project is out of development.
+
 How to use:
 Select a meme template. Any non- textual image would work.
 Enter the text you want to be displayed at the head of the image.
