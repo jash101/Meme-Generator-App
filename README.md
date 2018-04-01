@@ -2,7 +2,7 @@
 
 ## Meme Generator let's you create Meme's easily - it's as easy as taking a picture.
 
-Disclaimer: This project is out of development.
+Disclaimer: This project was earlier a part of the LyfLime Beta Code. I've stopped development of this project.
 
 How to use:
 Select a meme template. Any non- textual image would work.
